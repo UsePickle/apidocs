@@ -6,7 +6,6 @@
 
 + Headers:
     + `x-access-token`: <YOUR ACCESS TOKEN>
-    + `Cookie`: __cfduid=dda398b6f60319b335565b7d7c64db9df1507945886; connect.sid=s%3AYfFQA_vzAs350K4VFU8E06ChveSKNNLd.ZoiRqH3rA58ePab0D7lZMjnDyGdxGPLpnK9QXn8I37c
     
     *For more information check [[Headers]]*
 
@@ -38,7 +37,6 @@
 
 + Headers:
     + `x-access-token`: <YOUR ACCESS TOKEN>
-    + `Cookie`: __cfduid=dda398b6f60319b335565b7d7c64db9df1507945886; connect.sid=s%3AYfFQA_vzAs350K4VFU8E06ChveSKNNLd.ZoiRqH3rA58ePab0D7lZMjnDyGdxGPLpnK9QXn8I37c
     
     *For more information check [[Headers]]*
 
